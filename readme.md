@@ -105,21 +105,6 @@ curl -X POST http://127.0.0.1:5000/step \
 
 ---
 
-## Next Steps
-
-- [ ] Add test suite with `pytest`
-- [ ] Build a frontend visualizer
-- [ ] Support grid wrapping or edge detection
-- [ ] Deploy with Render or Fly.io
-
----
-
-## Author Notes
-
-This project is part of a personal journey into APIs and backend logic. It builds on lessons learned from my first project: a Stoic Quotes API.
-
----
-
 ## License
 
 MIT

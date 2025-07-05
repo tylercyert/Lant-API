@@ -38,7 +38,7 @@ langtons-ant-api/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourname/langtons-ant-api.git
+git clone https://github.com/tylercyert/langtons-ant-api.git
 cd langtons-ant-api
 ```
 
